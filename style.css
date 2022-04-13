@@ -68,7 +68,7 @@ span{
 .right{
     background-color: hsl(277, 64%, 61%);
 }
-img{
+.img{
     opacity: 0.6;
 }
 
@@ -93,6 +93,7 @@ img{
     img{
         width: 100%;
         overflow: hidden;
+        opacity: 0.6;
         
     }
     .left{
